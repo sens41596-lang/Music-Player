@@ -1,2 +1,2 @@
 # Music-Player
-new repo
+Music player project
